@@ -4,7 +4,7 @@ public class Cal_percentage {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Student name : ");
-        String name = sc.nextLine();
+        String Studentname = sc.nextLine();
         System.out.print("Enter the marks of Maths : ");
         int maths =sc.nextInt();
         System.out.print("Enter the marks of Physics : ");
